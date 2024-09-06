@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "e710d25b-0582-498c-b27a-bd0466ec74fb")
 	(paper "A4")
+	(title_block
+		(title "Micro pro PLC")
+		(date "2024-09-08")
+		(rev "1.0")
+		(company "JbLb")
+	)
 	(lib_symbols
 		(symbol "Arduino:Sparkfun_Pro_Micro"
 			(pin_names
@@ -3241,6 +3247,9 @@
 				)
 			)
 		)
+	)
+	(bus_alias ""
+		(members)
 	)
 	(junction
 		(at 85.09 105.41)
